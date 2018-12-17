@@ -2,7 +2,7 @@
   "name": "express",
   "version": "1.0.0",
   "description": "Eat The Burger",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
