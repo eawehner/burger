@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Eat The Burger",
   "main": "server.js",
+  "engine": {
+    "node": "10.15.0"
+  },
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
